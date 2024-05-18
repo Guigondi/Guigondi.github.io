@@ -2,9 +2,10 @@
 title: Game Developer
 email: your-email@domain.com
 description: > # keep this and put description below
+Testing description
   Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
+url: Guigondi.github.io
+linkedin_url: https://www.linkedin.com/in/guilherme-g-dias/
 github_username: gamingportfolio
 twitter_username: gamingportfolio
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
